@@ -1,7 +1,6 @@
 %% -*- mode: erlang; erlang-indent-level: 2 -*-
 {application, haskler,
- [ {description , "The one that created this was too lazy to provide a proper"
-                  "description"}
+ [ {description , "Some impure purity just for fun"}
  , {vsn         , git}
  , {registered  , []}
  , {applications, [ kernel
